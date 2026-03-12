@@ -1,0 +1,26 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.kbcrumbs/mcp",
+  "description": "Live threat intelligence for Claude — IP lookup, CVE intel, KEV Oracle predictions, malware hash lookup, pre-attack staging detection via GhostWatch. Free, no API key required. Data updates every 15 minutes.",
+  "repository": {
+    "url": "https://github.com/kbcrumbs/mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "packages": [
+    {
+      "registryType": "pypi",
+      "identifier": "keyboardcrumbs-mcp",
+      "version": "1.0.0",
+      "transport": {
+        "type": "stdio"
+      },
+      "runtimeArguments": [
+        {
+          "type": "literal",
+          "value": "keyboardcrumbs-mcp"
+        }
+      ]
+    }
+  ]
+}
