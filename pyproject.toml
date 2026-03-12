@@ -1,6 +1,6 @@
 [project]
 name = "keyboardcrumbs-mcp"
-version = "1.0.0"
+version = "1.0.1"
 description = "Live threat intelligence MCP server — IP lookup, CVE intel, KEV Oracle predictions, malware hashes, pre-attack staging detection. Free, no API key required."
 readme = "README.md"
 requires-python = ">=3.10"

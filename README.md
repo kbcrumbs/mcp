@@ -1,5 +1,7 @@
 # KeyboardCrumbs MCP Server
 
+mcp-name: com.keyboardcrumbs/mcp
+
 Live threat intelligence tools for Claude Desktop. Free, no API key required.
 
 ## Tools
